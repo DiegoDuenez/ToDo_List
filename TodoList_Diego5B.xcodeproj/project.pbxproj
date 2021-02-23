@@ -48,8 +48,6 @@
 		285DDCDD25DC29F80013CF7D = {
 			isa = PBXGroup;
 			children = (
-				285DDCFF25DC2E140013CF7D /* App.swift */,
-				285DDCFD25DC2DF20013CF7D /* Task.swift */,
 				285DDCE825DC29F80013CF7D /* TodoList_Diego5B */,
 				285DDCE725DC29F80013CF7D /* Products */,
 			);
@@ -66,6 +64,8 @@
 		285DDCE825DC29F80013CF7D /* TodoList_Diego5B */ = {
 			isa = PBXGroup;
 			children = (
+				285DDCFD25DC2DF20013CF7D /* Task.swift */,
+				285DDCFF25DC2E140013CF7D /* App.swift */,
 				285DDD0125DC362C0013CF7D /* UIComponent */,
 				285DDCE925DC29F80013CF7D /* AppDelegate.swift */,
 				285DDCEB25DC29F80013CF7D /* SceneDelegate.swift */,
